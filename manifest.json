@@ -1,0 +1,26 @@
+{
+  "name": "Viseon Surveillance Intelligence",
+  "short_name": "VISEON",
+  "description": "Intelligent real-time violence detection system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["security", "productivity"],
+  "screenshots": []
+}
